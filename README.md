@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @scott295
+- 👋 Hi, I’m scott
 - 👀 I’m interested in coding and games
-- 🌱 I’m currently learning C/C++ and HTML
-- 💞️ I’m looking to collaborate on any C++ based projects or HTML front developing.
+- 🌱 I’m currently learning JAVA, C/C++, and HTML
+- 💞️ I’m looking to collaborate on any JAVA or C++ based projects or HTML front developing.
 - 📫 How to reach me ...
 
 <!---
