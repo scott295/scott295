@@ -1,7 +1,7 @@
 - 👋 Hi, I’m scott
 - 👀 I’m interested in coding and games
-- 🌱 I’m currently learning JAVA, C/C++, and HTML
-- 💞️ I’m looking to collaborate on any JAVA or C++ based projects or HTML front developing.
+- 🌱 I’m currently learning React and Angular
+- 💞️ I’m looking to collaborate on any JAVA or C++ based projects or Web developing.
 - 📫 How to reach me ...
 
 <!---
